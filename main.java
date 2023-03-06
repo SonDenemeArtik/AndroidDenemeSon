@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class main {
     public static void main(String[] args)
     {
@@ -8,5 +10,9 @@ public class main {
 
     public void selamlar(){
         System.out.println("yagizbrotv like atın");
+    }
+
+    public void aleykumselam(){
+        System.out.println("aleykumselam");
     }
 }
